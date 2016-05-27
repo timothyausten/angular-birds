@@ -1,0 +1,28 @@
+<div class="list-group" ng-controller="aviaryController as aviary" >
+    <div class="list-group-item list-group-item" ng-repeat="bird in birds">
+        <div class="wraptable cellcontentwidth showborder">
+            
+            
+            <div class="centerouter cellcontentwidth cellcontentheight showborder">
+                <div class="centerinner cellcontentwidth cellcontentheight showborder">
+                    <img ng-src="/images/{{bird.img}}" style="max-width:100%;max-height:100%;" onclick="this.scrollIntoView({block: 'end', behavior: 'smooth'})" />
+                </div>
+            </div>
+        
+            
+        <div class="showborder" style="float:left;">
+            <a ng-href="https://fi.wikipedia.org/wiki/{{bird.fi}}">
+                {{bird.fi}}
+            </a>
+        </div>
+            <div class="showborder" style="float:right;">
+                <a ng-href="https://en.wikipedia.org/wiki/{{bird.en}}">
+                    {{bird.en}}
+                </a>
+            </div>
+    </div>
+</div>
+
+
+
+<!-- style="text-transform: capitalize" -->

@@ -1,0 +1,51 @@
+[{
+    "en": "jackdaw",
+    "fi": "naakka",
+    "urlcommons": "Kaja-2.jpg",
+    "img": "800px-Kaja-2.jpg",
+    "description": "Jackdaws are thrush-sized birds and probably the most common bird seen in Finland. Their plumage is similar to hooded crows, except that they have darker gray bodies, they have black masks theat cover only their faces, and they lack the black bibs present on hooded crows."
+}, {
+    "en": "hooded crow",
+    "fi": "varis",
+    "urlcommons": "Nebelkr%C3%A4he_Corvus_cornix.jpg",
+    "img": "Nebelkrähe_Corvus_cornix.jpg",
+    "description": "Hooded crows are like American crows, but with light-gray bodies. They have black hoods, bibs, wings, and tails. Their color pattern is similar to that of jackdaws, but their bodies are much lighter gray, they have black hoods that cover their heads entirely, and they have black bibs attached to their hoods."
+}, {
+    "en": "Carrion crow",
+    "fi": "nokivaris",
+    "urlcommons": "Bois_Boulogne_-_Oiseaux_(5).JPG",
+    "img": "Bois_Boulogne_-_Oiseaux_(5).JPG",
+    "description": "The carrion crow likely won't be seen in Finland, as they prefer not to compete with the hooded crows of Eastern Europe. Given their similarity in appearance to the American crow and their prevailance in Western Europe, they deserve a mention for purposes of comparison. Carrion crows are closely related to, and until recently, regarded as a sub-species of the hooded crow."
+}, {
+    "en": "American crow",
+    "fi": "amerikanvaris",
+    "urlcommons": "Corvus-brachyrhynchos-001.jpg",
+    "img": "1024px-Corvus-brachyrhynchos-001.jpg"
+}, {
+    "en": "rook",
+    "fi": "mustavaris",
+    "wiki-en": "rook (bird)",
+    "urlcommons": "Rook-Corvus_frugilegus.jpg",
+    "img": "803px-Rook-Corvus_frugilegus.jpg",
+    "description": "Rooks are distinguished from similar birds by the bare, white skin around their bills."
+}, {
+    "en": "raven",
+    "fi": "korppi",
+    "urlcommons": "Common_Raven_-_Catalan_Pyrenees_-_Spain_MG_4250_(24586755714).jpg",
+    "img": "Common_Raven_-_Catalan_Pyrenees_-_Spain_MG_4250_(24586755714).jpg"
+}, {
+    "en": "blue jay",
+    "fi": "sinitöyhtönärhi",
+    "urlcommons": "Cyanocitta-cristata-004.jpg",
+    "img": "800px-Cyanocitta-cristata-004.jpg"
+}, {
+    "en": "magpie",
+    "fi": "harakka",
+    "urlcommons": "Pica_pica_perched_Alicante.jpg",
+    "img": "961px-Pica_pica_perched_Alicante.jpg"
+}, {
+    "en": "wagtail",
+    "fi": "västäräkki",
+    "urlcommons": "White_Wagtail_(8737690785).jpg",
+    "img": "White_Wagtail_(8737690785).jpg"
+}]
