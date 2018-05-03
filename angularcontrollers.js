@@ -20,7 +20,7 @@
     app.factory('birdService', function($http) {
         var birdService = {
             async: function() {
-                var promise = $http.get('/birds.json').then(function (response) {
+                var promise = $http.get('/angular-birds/birds.json').then(function (response) {
                 return response.data;
                 });
             return promise;
